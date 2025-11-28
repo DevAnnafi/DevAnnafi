@@ -1,3 +1,9 @@
+Hi there! 👋  
+I'm Annafi, an aspiring software developer on a mission to break into the Software, QA, and Cybersecurity fields.
+
+I’m currently learning and building projects with Python, C++, JavaScript (Node.js, React), and tools like Git, Docker, and SQL. I’m passionate about creating clean, efficient code and understanding how systems work under the hood — whether it’s automating tasks, securing applications, or building web apps that solve real problems.
+
+Outside of coding, I enjoy exploring tech trends, playing video games, and sharing my journey through content (because learning out loud makes it stick better 😉).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axnnafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annafi-islam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@annafi.islam02)
