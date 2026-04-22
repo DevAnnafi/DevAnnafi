@@ -1,7 +1,7 @@
 Hi there! 👋  
 I'm Annafi, a developer on a mission to break into the Software and Cybersecurity fields.
 
-I’m currently learning and building projects with Python, C++, JavaScript (Node.js, Next.js, React), and tools like Git, Docker, and SQL. I’m passionate about creating clean, efficient code and understanding how systems work under the hood — whether it’s automating tasks, securing applications, or building web apps that solve real problems.
+I’m currently learning and building projects with Python, C++, JavaScript (Node.js, Next.js, React), and tools like Git, Docker, and SQL. I’m passionate about creating clean, efficient code and understanding how systems work under the hood — whether it’s automating tasks, securing applications, or building web apps that solve real problems. I'm also learning red teaming and blue teaming to increase my skills in cybersecurity.
 
 Outside of coding, I enjoy exploring tech trends, playing video games, and sharing my journey through content (because learning out loud makes it stick better 😉).
 
